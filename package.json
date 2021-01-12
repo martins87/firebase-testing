@@ -1,0 +1,22 @@
+{
+  "name": "firebase-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martins87/firebase-testing.git"
+  },
+  "author": "Daniel Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martins87/firebase-testing/issues"
+  },
+  "homepage": "https://github.com/martins87/firebase-testing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
